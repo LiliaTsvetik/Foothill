@@ -34,6 +34,7 @@ public class Foothill
       System.out.println( " " + removeCharacter(userString, keyCharacter, startAt));
       
       input.close();
+      System.out.print("\n");
    }
    
   // method definitions:
